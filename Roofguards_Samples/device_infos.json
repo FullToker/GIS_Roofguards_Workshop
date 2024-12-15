@@ -1,0 +1,27 @@
+[
+    {
+        "longitude": 11.7744083333333,
+        "alarms": 0,
+        "latitude": 47.9719916666667,
+        "did": 36339,
+        "online": 1,
+        "name": "PP313-159"
+    },
+    {
+
+        "longitude": 11.5541305555556,
+        "alarms": 0,
+        "latitude": 48.1148111111111,
+        "did": 12095,
+        "online": 1,
+        "name": "PP313-112"
+    },
+    {
+        "longitude": 11.284775,
+        "alarms": 0,
+        "latitude": 48.2153083333333,
+        "did": 29277,
+        "online": 1,
+        "name": "PP313-155"
+    }
+]
